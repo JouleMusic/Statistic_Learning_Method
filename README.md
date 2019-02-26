@@ -4,4 +4,5 @@
 
 1. [感知机](https://github.com/JouleMusic/Statistic_Learning_Method/blob/master/02-perceptron.py)
 2. [kNN](https://github.com/JouleMusic/Statistic_Learning_Method/blob/master/03-kNN.py)
+3. [KDTree](https://github.com/JouleMusic/Statistic_Learning_Method/blob/master/03-KDTree.py)
 
